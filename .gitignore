@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and local env
+*.log
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
+.astro/
+.next/
+.vercel/
+coverage/
